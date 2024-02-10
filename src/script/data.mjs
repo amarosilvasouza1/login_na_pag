@@ -8,39 +8,46 @@ const users = [
         acesso: true,
     },
     {
-        id: 1,
+        id: 2,
         name: "ugo",
         password: "123456",
         email: "ugo@gmail.com",
         acesso: false,
     },
     {
-        id: 1,
+        id: 3,
         name: "senpai",
         password: "132435",
         email: "senpai@gmail.com",
         acesso: false,
     },
     {
-        id: 1,
+        id: 4,
         name: "felipe",
         password: "098765",
         email: "felipe@gmail.com",
         acesso: false,
     },
     {
-        id: 1,
+        id: 5,
         name: "md_chef",
         password: "123456",
         email: "md_chef@gmail.com",
         acesso: false,
     },
     {
-        id: 1,
+        id: 6,
         name: "neymar",
         password: "123456",
         email: "ney2@gmail.com",
         acesso: false,
+    }
+     {
+        id: 7,
+        name: "lepra",
+        password: "abcd",
+        email: "lepra@gmail.com",
+        acesso: "negado",   
     }
 ]
 
