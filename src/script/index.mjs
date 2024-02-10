@@ -20,3 +20,7 @@ clikEnter()
 
 // vc deve analizar o email e senha e retonar se a senha ou o email esta errado no terminal se estver correto vc rotona que o usuario foi logado com suseso, nao esqueca de mostra o nome do usuario
 // escreva sua logica aparti da aqui
+
+
+
+// se o usuario tiver acceso como negado retonar (vc foi banido do sait esperamos que vc se arependa de sues atos)

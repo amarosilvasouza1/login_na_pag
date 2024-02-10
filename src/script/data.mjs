@@ -41,8 +41,8 @@ const users = [
         password: "123456",
         email: "ney2@gmail.com",
         acesso: false,
-    }
-     {
+    },
+    {
         id: 7,
         name: "lepra",
         password: "abcd",
