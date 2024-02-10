@@ -12,7 +12,7 @@ const inputAnalysisUser = () => {
     const password = password1.value
     const email = email1.value
 
-    //    chame sua funçao na linha a baixo, a funçao que vai analiza a senha e email, passando o parametro como (password e email) ex: funcion (password, email)
+    //chame sua funçao na linha a baixo, a funçao que vai analiza a senha e email, passando o parametro como (password e email) ex: funcion (password, email)
 
 }
 
